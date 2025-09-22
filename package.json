@@ -1,6 +1,6 @@
 {
   "homepage": "https://chvajayreddy.github.io/movie-gpt/",
-  "name": "netflix-gpt",
+  "name": "movie-gpt",
   "private": true,
   "version": "0.0.0",
   "type": "module",
