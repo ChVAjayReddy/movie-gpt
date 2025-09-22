@@ -5,10 +5,10 @@ import Header from "./Header";
 
 const Body = () => {
 const appRouter=createBrowserRouter([
-  {path:"netflix-gpt/",
+  {path:"movie-gpt/",
     element:<Login/>
   },
-  {path:"netflix-gpt/browse",
+  {path:"movie-gpt/browse",
     element:<Browse/>
   }
 ])
